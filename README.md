@@ -6,13 +6,13 @@
  
 <p align="center">
 <a href="https://www.linkedin.com/in/linling-bai-32a59b371" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Linling%20Bai-0A66C2?style=flat-square&logo=indeed&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Linling%20Bai-0A66C2?style=flat-square&logo=logmein&logoColor=white" />
 </a>
 <a href="https://github.com/GoldenMillet" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-GoldenMillet-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b" target="_blank">
-  <img src="https://img.shields.io/badge/小红书-森美奈美的树村路女儿-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red Notes-森美奈美的树村路女儿-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" />
 </a> 
 </p>
 
