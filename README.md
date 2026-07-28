@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linling Bai (白琳灵)</h1>
 
-<div align='center'><img src='https://scs.ucas.ac.cn/images/headers/logo_ucas3.png'></div><br>
+<br><div align='center'><img src='https://scs.ucas.ac.cn/images/headers/logo_ucas3.png'></div><br>
 
 <!-- <h3 align="center">中国科学院大学网络空间安全学院 · 硕士研究生在读</h3> -->
  
