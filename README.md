@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Linling Bai (白琳灵)</h1>
-<h3 align="center">中国科学院大学网络空间安全学院 · 硕士研究生在读</h3>
+
+<div align='center'><img src='https://scs.ucas.ac.cn/images/headers/logo_ucas3.png'></div>
+
+<!-- <h3 align="center">中国科学院大学网络空间安全学院 · 硕士研究生在读</h3> -->
  
 <p align="center">
 <a href="https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b" target="_blank">
@@ -12,16 +15,16 @@
 
 ---
 
-Linling Bai is currently a Master of Engineering student in the University of Chinese Academy of Sciences (UCAS) system. Prior to that, she received a B.E. degree in Software Engineering from Beijing University of Technology (BJUT) in 2024.
+**Linling Bai** is currently a Master of Engineering student in the University of Chinese Academy of Sciences (UCAS) system. Prior to that, she received a B.E. degree in Software Engineering from Beijing University of Technology (BJUT) in 2024.
  
 ## 🌱 Education
  
 | Time | Degrees | Major | Secondary-level | Universities |
 |:---:|:---:|:---:|:---:|:---:|
-| 2020.09 – 2024.06 | B.E. | Software Engineering | Faculty of Information Technology | Beijing University of Technology (BJUT) |
-| 2024.06 – 2024.07 | B.E. | Software Engineering | College of Computer Science | Beijing University of Technology (BJUT) |
-| 2025.09 – 2026.07 | M.E. | Cyberspace Security | School of Cyber Security | University of Chinese Academy of Sciences (UCAS) |
-| 2026.07 – 2028.07 (expected) | M.E. | Cyberspace Security | - | Chinese Academy of Sciences (CAS) |
+| 2020.09 ~ 2024.06 | B.E. | Software Engineering | Faculty of Information Technology | Beijing University of Technology (BJUT) |
+| 2024.06 ~ 2024.07 | B.E. | Software Engineering | College of Computer Science | Beijing University of Technology (BJUT) |
+| 2025.09 ~ 2026.07 | M.E. | Cyberspace Security | School of Cyber Security | University of Chinese Academy of Sciences (UCAS) |
+| 2026.07 ~ 2028.07 (expected) | M.E. | Cyberspace Security | _(hidden)_ | Chinese Academy of Sciences (CAS) |
  
 ## 🔭 Research Interests
  
@@ -46,12 +49,12 @@ VR system security protects hardware, software, and user data against threats un
 Open to new directions at the intersection of security and intelligent systems.
 </details>
 
-## 🔬 Publications
+## 🔬 Publications and Patents
 
-| Type | Author Rank | Title | Published In | CCF Ranking | SCI/EI Ranking |
+| Type | Author Rank | Title | Published In | CCF Ranking | SCI-JCR Ranking |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Invention Patent | 1st Author | A Method and Apparatus for Image-to-XXX Conversion Based on Deep Learning | China National Intellectual Property Administration (CNIPA) | - | - |
-| Journal Paper | Co-1st Author | Security Risk Analysis of XXX in YYY CI/CD platform | Journal of Systems and Software (JSS) | CCF-B | SCI Q2 |
+| Invention Patent | 1st Author | A Method and Apparatus for Image-to-_(hidden)_ Conversion Based on Deep Learning | China National Intellectual Property Administration (CNIPA) | - | - |
+| Journal Paper | Co-1st Author | Security Risk Analysis of _(hidden)_ in _(hidden)_ CI/CD platform | Journal of Systems and Software (JSS) | CCF-B | JCR-Q1 |
 
 ## 📩 Connect with Me
  
