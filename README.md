@@ -20,8 +20,8 @@ Linling Bai is currently a Master of Engineering student in the University of Ch
 |:---:|:---:|:---:|:---:|:---:|
 | 2020.09 – 2024.06 | B.E. | Software Engineering | Faculty of Information Technology | Beijing University of Technology (BJUT) |
 | 2024.06 – 2024.07 | B.E. | Software Engineering | College of Computer Science | Beijing University of Technology (BJUT) |
-| 2025.09 – 2026.07 | M.E. | Cyberspace Security | School of Cyberspace Security | University of Chinese Academy of Sciences (UCAS) |
-| 2026.07 – 2028.07 (expected) | M.E. | Cyberspace Security | - | Chinese Academy of Sciences (CAS) |
+| 2025.09 – 2026.07 | M.E. | Cyberspace Security | School of Cyber Security | University of Chinese Academy of Sciences (UCAS) |
+| 2026.07 – 2028.07 (expected) | M.E. | Cyberspace Security | Institute of Information Engineering | Chinese Academy of Sciences (CAS) |
  
 ## 🔭 Research Interests
  
@@ -45,6 +45,13 @@ VR system security protects hardware, software, and user data against threats un
 <br>
 Open to new directions at the intersection of security and intelligent systems.
 </details>
+
+## 🔬 Publications
+
+| Type | Author Rank | Title | Published In | CCF Ranking | SCI/EI Ranking |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Invention Patent | 1st Author | A Method and Apparatus for Image-to-XXX Conversion Based on Deep Learning | 国家知识产权局 (CNIPA) | - | - |
+| Journal Paper | 1st Author | Security Risk Analysis of XXX in YYY CI/CD platform | Journal of Systems and Software (JSS) | CCF-B | SCI Q2 |
 
 ## 📩 Connect with Me
  
