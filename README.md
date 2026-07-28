@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linling Bai (白琳灵)</h1>
 
-<div align='center'style="margin-top: 15px; margin-bottom: 15px;">
-  <img src='https://scs.ucas.ac.cn/images/headers/logo_ucas3.png'>
-</div>
+<div align='center'style="margin-top: 15px; margin-bottom: 15px;"><img src='https://scs.ucas.ac.cn/images/headers/logo_ucas3.png'></div>
 
 <!-- <h3 align="center">中国科学院大学网络空间安全学院 · 硕士研究生在读</h3> -->
  
@@ -32,17 +30,16 @@
  
 <details open>
 <summary><b>Transfer Learning & Computer Vision</b></summary>
-<br>
 Transfer learning in computer vision adapts a model pre-trained on a large, general-purpose dataset (e.g., ImageNet) to a new, often smaller, target task by fine-tuning its later layers or using its extracted features as input. This dramatically reduces the need for massive labeled data and computational resources, since the network has already learned fundamental visual patterns — edges, textures, shapes — that are reusable across many domains, from medical diagnostics to autonomous driving.
 </details>
+<br>
 <details open>
 <summary><b>CI/CD & Supply Chain Security</b></summary>
-<br>
 CI/CD security covers the practices, tools, and policies that protect the continuous integration and continuous delivery/deployment pipeline — from code commit to production release. It spans securing source repositories, build environments, and artifact registries, while enforcing automated vulnerability scanning, dependency checks, secret management, and access controls, with the goal of catching supply-chain risks early without slowing development velocity.
 </details>
+<br>
 <details open>
 <summary><b>Virtual Reality System Security</b></summary>
-<br>
 VR system security protects hardware, software, and user data against threats unique to immersive, sensor-rich environments — from physical tampering of head-mounted displays and tracking systems to securing the rendering pipeline and network communications against malware or injection attacks. It also covers privacy risks such as unauthorized access to motion, gaze, or biometric data, and guards against manipulation of perceptual feedback that could cause disorientation or harm.
 </details>
 <details>
@@ -56,7 +53,7 @@ Open to new directions at the intersection of security and intelligent systems.
 | Type | Author Rank | Title | Published In | CCF Ranking | SCI-JCR Ranking |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Invention Patent | 1st Author | A Method and Apparatus for Image-to-_(hidden)_ Conversion Based on Deep Learning | China National Intellectual Property Administration (CNIPA) | - | - |
-| Journal Paper | Co-1st Author | Security Risk Analysis of _(hidden)_ in _(hidden)_ CI/CD platform | Journal of Systems and Software (JSS) | CCF-B | JCR-Q1 |
+| Journal Paper | Co-1st Author | _(hidden)_: Security Risk Analysis of _(hidden)_ in _(hidden)_ CI/CD platform | Journal of Systems and Software (JSS) | CCF-B | JCR-Q1 |
 
 ## 📩 Connect with Me
  
