@@ -16,10 +16,12 @@ Linling Bai is currently a Master of Engineering student in the University of Ch
  
 ## 🌱 Education
  
-| Time | Degrees | Major | Universities |
-|:---:|:---:|:---:|:---:|
-| 2020.09 – 2024.07 | B.E. | Software Engineering | Beijing University of Technology (BJUT) |
-| 2025.09 – 2028.07 (expected) | M.E. | Cyberspace Security | University of Chinese Academy of Sciences (UCAS) |
+| Time | Degrees | Major | Secondary-level | Universities |
+|:---:|:---:|:---:|:---:|:---:|
+| 2020.09 – 2024.06 | B.E. | Software Engineering | Faculty of Information Technology | Beijing University of Technology (BJUT) |
+| 2024.06 – 2024.07 | B.E. | Software Engineering | College of Computer Science | Beijing University of Technology (BJUT) |
+| 2025.09 – 2026.07 | M.E. | Cyberspace Security | School of Cyberspace Security | University of Chinese Academy of Sciences (UCAS) |
+| 2026.07 – 2028.07 (expected) | M.E. | Cyberspace Security | - | Chinese Academy of Sciences (CAS) |
  
 ## 🔭 Research Interests
  
