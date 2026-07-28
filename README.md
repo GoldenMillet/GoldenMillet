@@ -22,11 +22,7 @@ Linling Bai is currently an Master of Engineering student in University of Chine
 
  ### 📩 Connect with me:
 
- All of my P-logs are available at **[https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b](https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b)** (Red Notes). You can connect with me at **[https://github.com/GoldenMillet](https://github.com/GoldenMillet)** (GitHub).
-
-<p align="left">
-<a href="https://github.com/GoldenMillet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GoldenMillet" height="30" width="40" /></a>
-</p>
+ All of my P-logs are available at **[https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b](https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b)** (Red Notes). You can connect with me at <a href="https://github.com/GoldenMillet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GoldenMillet" height="20" width="20" /></a>.
 
  ### 💡 Languages and Tools:
 
