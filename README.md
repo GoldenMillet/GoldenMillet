@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linling Bai (白琳灵)</h1>
 
-<div align='center'style="margin-top: 15px; margin-bottom: 15px;"><img src='https://scs.ucas.ac.cn/images/headers/logo_ucas3.png'></div>
+<div align='center'><img src='https://scs.ucas.ac.cn/images/headers/logo_ucas3.png'></div><br>
 
 <!-- <h3 align="center">中国科学院大学网络空间安全学院 · 硕士研究生在读</h3> -->
  
@@ -42,9 +42,9 @@ CI/CD security covers the practices, tools, and policies that protect the contin
 <summary><b>Virtual Reality System Security</b></summary>
 VR system security protects hardware, software, and user data against threats unique to immersive, sensor-rich environments — from physical tampering of head-mounted displays and tracking systems to securing the rendering pipeline and network communications against malware or injection attacks. It also covers privacy risks such as unauthorized access to motion, gaze, or biometric data, and guards against manipulation of perceptual feedback that could cause disorientation or harm.
 </details>
+<br>
 <details>
 <summary><i>… and more</i></summary>
-<br>
 Open to new directions at the intersection of security and intelligent systems.
 </details>
 
