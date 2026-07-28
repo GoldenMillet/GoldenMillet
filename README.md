@@ -2,12 +2,12 @@
 <h3 align="center">中国科学院大学网络空间安全学院 · 硕士研究生在读</h3>
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,java,js,vue,linux,git,mysql,nodejs,django,spring,unity,androidstudio,opencv,c" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Institution-UCAS-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Degree-M.E._Cyberspace_Security-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/Undergrad-BJUT_2024-lightgrey?style=flat-square" />
+<a href="https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b" target="_blank">
+  <img src="https://img.shields.io/badge/小红书-森美奈美的树村路女儿-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" />
+</a>
+<a href="https://github.com/GoldenMillet" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-GoldenMillet_(Auferstehung)-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 </p>
 
 ---
@@ -24,12 +24,12 @@ Linling Bai is currently a Master of Engineering student in the University of Ch
 ## 🔭 Research Interests
  
 <details open>
-<summary><b>Transfer Learning, Computer Vision</b></summary>
+<summary><b>Transfer Learning & Computer Vision</b></summary>
 <br>
 Transfer learning in computer vision adapts a model pre-trained on a large, general-purpose dataset (e.g., ImageNet) to a new, often smaller, target task by fine-tuning its later layers or using its extracted features as input. This dramatically reduces the need for massive labeled data and computational resources, since the network has already learned fundamental visual patterns — edges, textures, shapes — that are reusable across many domains, from medical diagnostics to autonomous driving.
 </details>
 <details open>
-<summary><b>CI/CD Security, Supply Chain Security</b></summary>
+<summary><b>CI/CD & Supply Chain Security</b></summary>
 <br>
 CI/CD security covers the practices, tools, and policies that protect the continuous integration and continuous delivery/deployment pipeline — from code commit to production release. It spans securing source repositories, build environments, and artifact registries, while enforcing automated vulnerability scanning, dependency checks, secret management, and access controls, with the goal of catching supply-chain risks early without slowing development velocity.
 </details>
@@ -46,16 +46,7 @@ Open to new directions at the intersection of security and intelligent systems.
 
 ## 📩 Connect with Me
  
-<p align="left">
-<a href="https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b" target="_blank">
-  <img src="https://img.shields.io/badge/小红书-Red_Notes-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" />
-</a>
-<a href="https://github.com/GoldenMillet" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-GoldenMillet-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-</p>
-
-> For privacy reasons, educational email addresses or personal mobile/landline numbers are not provided on this page.
+> For privacy reasons, email addresses (including educational email addresses) or personal mobile/landline numbers are not provided on this page.
  
 ## 💡 Languages & Tools
  
