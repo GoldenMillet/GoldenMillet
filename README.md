@@ -5,26 +5,31 @@
 <!-- <h3 align="center">中国科学院大学网络空间安全学院 · 硕士研究生在读</h3> -->
  
 <p align="center">
+<a href="https://www.linkedin.com/in/linling-bai-32a59b371" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Linling%20Bai-0A66C2?style=flat-square&logo=indeed&logoColor=white" />
+</a>
+<a href="https://github.com/GoldenMillet" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-GoldenMillet-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 <a href="https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b" target="_blank">
   <img src="https://img.shields.io/badge/小红书-森美奈美的树村路女儿-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" />
 </a> 
-<a href="https://github.com/GoldenMillet" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-GoldenMillet_(Auferstehung)-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
 </p>
 
 ---
 
-**Linling Bai** is currently a Master of Engineering student in the University of Chinese Academy of Sciences (UCAS) system. Prior to that, she received a B.E. degree in Software Engineering from Beijing University of Technology (BJUT) in 2024.
+**Linling Bai** is currently a Master of Engineering student in the University of Chinese Academy of Sciences (UCAS) system. Prior to that, she received a B.Eng. degree in Software Engineering from Beijing University of Technology (BJUT) in 2024. Her research interests include software supply chain Security and VR/AR System Security.
+
+
  
 ## 🌱 Education Timeline
  
-| Time | Degrees | Major | Secondary-level | Universities |
+| Time | Degrees | Major | Second-level Affiliated | Universities |
 |:---:|:---:|:---:|:---:|:---:|
-| 2020.09 ~ 2024.06 | B.E. | Software Engineering | Faculty of Information Technology | Beijing University of Technology (BJUT) |
-| 2024.06 ~ 2024.07 | B.E. | Software Engineering | College of Computer Science | Beijing University of Technology (BJUT) |
-| 2025.09 ~ 2026.07 | M.E. | Cyberspace Security | School of Cyber Security | University of Chinese Academy of Sciences (UCAS) |
-| 2026.07 ~ 2028.07 (expected) | M.E. | Cyberspace Security | Institute of Information Engineering (IIE) | Chinese Academy of Sciences (CAS) |
+| 2020.09 ~ 2024.06 | B.Eng. | Software Engineering | Faculty of Information Technology | Beijing University of Technology (BJUT) |
+| 2024.06 ~ 2024.07 | B.Eng. | Software Engineering | College of Computer Science | Beijing University of Technology (BJUT) |
+| 2025.09 ~ 2026.07 | M.Eng. | Cyberspace Security | School of Cyber Security | University of Chinese Academy of Sciences (UCAS) |
+| 2026.07 ~ 2028.07 (expected) | M.E.ng | Cyberspace Security | Institute of Information Engineering (IIECAS) | University of Chinese Academy of Sciences (UCAS) |
  
 ## 🔭 Research Interests
  
