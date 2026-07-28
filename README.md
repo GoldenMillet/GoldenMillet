@@ -1,6 +1,20 @@
 # Hi 👋, I'm Linling Bai (白琳灵)
 
-### Subtitle WIP...
+### 白琳灵 中国科学院大学网络空间安全学院 硕士研究生在读
+
+Linling Bai is currently an Master of Engineering student in University of Chinese Academy of Sciences (UCAS) System. Prior to that, she received a B.E. degree in Software Engineering from Beijing University of Technology (BJUT) in 2024.
+
+<!-- 2024年，白琳灵毕业于北京工业大学软件工程专业（工学学士学位）。目前，她正在中国科学院大学（及其关联研究所）攻读工学硕士学位。 -->
+
+### 🌱 Education:
+
+2020.09 ~ 2024.07 B.E. in Software Engineering, Beijing University of Technology (BJUT)
+
+2025.09 ~ 2028.07 (expected) M.E. in Cyberspace Security, University of Chinese Academy of Sciences (UCAS)
+
+### 🔭 Research Interests:
+
+===============================================
 
 - 🔭 I'm currently working on **Software Supply Chain Security
 Computer Vision**
