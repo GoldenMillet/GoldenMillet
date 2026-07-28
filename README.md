@@ -24,12 +24,12 @@ Linling Bai is currently a Master of Engineering student in the University of Ch
 ## 🔭 Research Interests
  
 <details open>
-<summary><b>Transfer Learning & Computer Vision</b></summary>
+<summary><b>Transfer Learning, Computer Vision</b></summary>
 <br>
 Transfer learning in computer vision adapts a model pre-trained on a large, general-purpose dataset (e.g., ImageNet) to a new, often smaller, target task by fine-tuning its later layers or using its extracted features as input. This dramatically reduces the need for massive labeled data and computational resources, since the network has already learned fundamental visual patterns — edges, textures, shapes — that are reusable across many domains, from medical diagnostics to autonomous driving.
 </details>
 <details open>
-<summary><b>CI/CD & Supply Chain Security</b></summary>
+<summary><b>CI/CD Security, Supply Chain Security</b></summary>
 <br>
 CI/CD security covers the practices, tools, and policies that protect the continuous integration and continuous delivery/deployment pipeline — from code commit to production release. It spans securing source repositories, build environments, and artifact registries, while enforcing automated vulnerability scanning, dependency checks, secret management, and access controls, with the goal of catching supply-chain risks early without slowing development velocity.
 </details>
@@ -55,7 +55,7 @@ Open to new directions at the intersection of security and intelligent systems.
 </a>
 </p>
 
-> 出于隐私考虑，本页面不提供教育邮箱或个人手机/座机号码。
+> For privacy reasons, educational email addresses or personal mobile/landline numbers are not provided on this page.
  
 ## 💡 Languages & Tools
  
