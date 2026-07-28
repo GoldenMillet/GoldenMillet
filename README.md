@@ -29,7 +29,7 @@
 | 2020.09 ~ 2024.06 | B.Eng. | Software Engineering | Faculty of Information Technology | Beijing University of Technology (BJUT) |
 | 2024.06 ~ 2024.07 | B.Eng. | Software Engineering | College of Computer Science | Beijing University of Technology (BJUT) |
 | 2025.09 ~ 2026.07 | M.Eng. | Cyberspace Security | School of Cyber Security | University of Chinese Academy of Sciences (UCAS) |
-| 2026.07 ~ 2028.07 (expected) | M.E.ng | Cyberspace Security | Institute of Information Engineering (IIECAS) | University of Chinese Academy of Sciences (UCAS) |
+| 2026.07 ~ 2028.07 (expected) | M.Eng. | Cyberspace Security | Institute of Information Engineering (IIECAS) | University of Chinese Academy of Sciences (UCAS) |
  
 ## 🔭 Research Interests
  
@@ -44,14 +44,14 @@ Transfer learning in computer vision adapts a model pre-trained on a large, gene
 <summary><b>CI/CD Security & Supply Chain Security</b></summary>
 CI/CD security covers the practices, tools, and policies that protect the continuous integration and continuous delivery/deployment pipeline — from code commit to production release. It spans securing source repositories, build environments, and artifact registries, while enforcing automated vulnerability scanning, dependency checks, secret management, and access controls, with the goal of catching supply-chain risks early without slowing development velocity.
 
-<u>**Key Words:** Software Bill of Materials, CI/CD Security, DevOps</u>
+<u>**Key Words:** Software Bill of Materials, CI/CD Security, DevOps.</u>
 </details>
 <br>
 <details open>
 <summary><b>VR/AR System Security</b></summary>
 VR/AR system security protects hardware, software, and user data against threats unique to immersive, sensor-rich environments — from physical tampering of head-mounted displays and tracking systems to securing the rendering pipeline and network communications against malware or injection attacks. It also covers privacy risks such as unauthorized access to motion, gaze, or biometric data, and guards against manipulation of perceptual feedback that could cause disorientation or harm.
 
-<u>**Key Words:** Extended Reality, Program Repair, Large Language Model</u>
+<u>**Key Words:** Extended Reality, Program Repair, Large Language Model.</u>
 </details>
 <br>
 <details>
