@@ -9,13 +9,14 @@
   <img src="https://img.shields.io/badge/Degree-M.E._Cyberspace_Security-informational?style=flat-square" />
   <img src="https://img.shields.io/badge/Undergrad-BJUT_2024-lightgrey?style=flat-square" />
 </p>
+
 ---
- 
+
 Linling Bai is currently a Master of Engineering student in the University of Chinese Academy of Sciences (UCAS) system. Prior to that, she received a B.E. degree in Software Engineering from Beijing University of Technology (BJUT) in 2024.
  
 ## 🌱 Education
  
-| 时间 | 学历 | 专业 | 院校 |
+| Time | Degrees | Major | Universities |
 |:---:|:---:|:---:|:---:|
 | 2020.09 – 2024.07 | B.E. | Software Engineering | Beijing University of Technology (BJUT) |
 | 2025.09 – 2028.07 (expected) | M.E. | Cyberspace Security | University of Chinese Academy of Sciences (UCAS) |
@@ -53,6 +54,7 @@ Open to new directions at the intersection of security and intelligent systems.
   <img src="https://img.shields.io/badge/GitHub-GoldenMillet-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 </p>
+
 > 出于隐私考虑，本页面不提供教育邮箱或个人手机/座机号码。
  
 ## 💡 Languages & Tools
