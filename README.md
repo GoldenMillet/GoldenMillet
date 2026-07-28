@@ -1,29 +1,62 @@
-# Hi 👋, I'm Linling Bai (白琳灵)
-
-### 白琳灵 中国科学院大学网络空间安全学院 硕士研究生在读
-
-Linling Bai is currently an Master of Engineering student in University of Chinese Academy of Sciences (UCAS) System. Prior to that, she received a B.E. degree in Software Engineering from Beijing University of Technology (BJUT) in 2024.
-
-### 🌱 Education:
-
-2020.09 ~ 2024.07 B.E. in **Software Engineering**, Beijing University of Technology (BJUT)
-
-2025.09 ~ 2028.07 (expected) M.E. in **Cyberspace Security**, University of Chinese Academy of Sciences (UCAS)
-
-### 🔭 Research Interests:
-
- - Transfer Learning, **Computer Vision**: Transfer learning in computer vision is a technique where a model pre‑trained on a large, general-purpose dataset (e.g., ImageNet) is adapted to a new, often smaller, target task by fine‑tuning its later layers or using its extracted features as input. This approach dramatically reduces the need for massive labeled data and computational resources, while still achieving high performance, because the network has already learned fundamental visual patterns—edges, textures, shapes—that are reusable across many image domains, from medical diagnostics to autonomous driving.
-
- - CI/CD Security, **Supply Chain Security**: CI/CD security refers to the practices, tools, and policies that protect the continuous integration and continuous delivery/deployment pipeline—from code commit to production release. It encompasses securing source code repositories, build environments, artifact registries, and deployment scripts, while also enforcing automated vulnerability scanning, dependency checks, secret management, and access controls. The goal is to detect and remediate risks early in the software lifecycle, prevent supply‑chain attacks, and ensure that only trusted, compliant code reaches runtime environments without slowing down development velocity.
-
- - **Virtual Reality** System Security: Virtual reality system security addresses the protection of VR hardware, software, and user data against threats that exploit the immersive, sensor‑rich nature of these environments. It involves safeguarding head‑mounted displays, tracking systems, and haptic controllers from physical tampering or signal interference, as well as securing the rendering pipeline, network communications, and application logic from malware, eavesdropping, or injection attacks. Additionally, it considers privacy risks—such as unauthorised access to motion, gaze, or biometric data—and aims to prevent manipulation of perceptual feedback that could cause disorientation, injury, or psychological harm to the user.
+<h1 align="center">Hi 👋, I'm Linling Bai (白琳灵)</h1>
+<h3 align="center">中国科学院大学网络空间安全学院 · 硕士研究生在读</h3>
  
- - etc...
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,java,js,vue,linux,git,mysql,nodejs,django,spring,unity,androidstudio,opencv,c" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Institution-UCAS-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Degree-M.E._Cyberspace_Security-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Undergrad-BJUT_2024-lightgrey?style=flat-square" />
+</p>
+---
+ 
+Linling Bai is currently a Master of Engineering student in the University of Chinese Academy of Sciences (UCAS) system. Prior to that, she received a B.E. degree in Software Engineering from Beijing University of Technology (BJUT) in 2024.
+ 
+## 🌱 Education
+ 
+| 时间 | 学历 | 专业 | 院校 |
+|:---:|:---:|:---:|:---:|
+| 2020.09 – 2024.07 | B.E. | Software Engineering | Beijing University of Technology (BJUT) |
+| 2025.09 – 2028.07 (expected) | M.E. | Cyberspace Security | University of Chinese Academy of Sciences (UCAS) |
+ 
+## 🔭 Research Interests
+ 
+<details open>
+<summary><b>Transfer Learning & Computer Vision</b></summary>
+<br>
+Transfer learning in computer vision adapts a model pre-trained on a large, general-purpose dataset (e.g., ImageNet) to a new, often smaller, target task by fine-tuning its later layers or using its extracted features as input. This dramatically reduces the need for massive labeled data and computational resources, since the network has already learned fundamental visual patterns — edges, textures, shapes — that are reusable across many domains, from medical diagnostics to autonomous driving.
+</details>
+<details open>
+<summary><b>CI/CD & Supply Chain Security</b></summary>
+<br>
+CI/CD security covers the practices, tools, and policies that protect the continuous integration and continuous delivery/deployment pipeline — from code commit to production release. It spans securing source repositories, build environments, and artifact registries, while enforcing automated vulnerability scanning, dependency checks, secret management, and access controls, with the goal of catching supply-chain risks early without slowing development velocity.
+</details>
+<details open>
+<summary><b>Virtual Reality System Security</b></summary>
+<br>
+VR system security protects hardware, software, and user data against threats unique to immersive, sensor-rich environments — from physical tampering of head-mounted displays and tracking systems to securing the rendering pipeline and network communications against malware or injection attacks. It also covers privacy risks such as unauthorized access to motion, gaze, or biometric data, and guards against manipulation of perceptual feedback that could cause disorientation or harm.
+</details>
+<details>
+<summary><i>… and more</i></summary>
+<br>
+Open to new directions at the intersection of security and intelligent systems.
+</details>
 
- ### 📩 Connect with me:
-
- All of my P-logs are available at **[https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b](https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b)** (Red Notes). You can connect with me at <a href="https://github.com/GoldenMillet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GoldenMillet" height="20" width="20" /></a>. For privacy reasons, educational email addresses or personal mobile/landline numbers are not provided on this page.
-
- ### 💡 Languages and Tools:
-
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a></p>
+## 📩 Connect with Me
+ 
+<p align="left">
+<a href="https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b" target="_blank">
+  <img src="https://img.shields.io/badge/小红书-Red_Notes-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" />
+</a>
+<a href="https://github.com/GoldenMillet" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-GoldenMillet-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+</p>
+> 出于隐私考虑，本页面不提供教育邮箱或个人手机/座机号码。
+ 
+## 💡 Languages & Tools
+ 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=anaconda,androidstudio,c,cpp,django,git,illustrator,java,js,linux,mysql,nginx,nodejs,opencv,py,pytorch,spring,unity,vue" />
+</p>
