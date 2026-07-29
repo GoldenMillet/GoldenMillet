@@ -18,18 +18,18 @@
 
 ---
 
-**Linling Bai (白琳灵)** is currently a Master of Engineering student in the University of Chinese Academy of Sciences (UCAS) system. Prior to that, she received a B.Eng. degree in Software Engineering from Beijing University of Technology (BJUT) in 2024. Her research interests include software supply chain security and VR/AR system security.
+**Linling Bai (in Chinese: 白琳灵)** is currently a Master of Engineering student in the University of Chinese Academy of Sciences (UCAS) system. Prior to that, she received a B.Eng. degree in Software Engineering from Beijing University of Technology (BJUT) in 2024. Her research interests include software supply chain security and VR/AR system security.
 
 
  
 ## 🌱 Education Timeline
  
-| Time | Degrees | Major | Second-level Affiliated | Universities |
+| Time | Degrees | Major | Second-level Affiliated | Academic Institutions |
 |:---:|:---:|:---:|:---:|:---:|
-| 2020.09 ~ 2024.06 | B.Eng. | Software Engineering | Faculty of Information Technology | Beijing University of Technology (BJUT) |
+| 2020.09 ~ 2024.06 | B.Eng. | Software Engineering | Faculty of Information Technology (FIT) | Beijing University of Technology (BJUT) |
 | 2024.06 ~ 2024.07 | B.Eng. | Software Engineering | College of Computer Science | Beijing University of Technology (BJUT) |
-| 2025.09 ~ 2026.07 | M.Eng. | Cyberspace Security | School of Cyber Security | University of Chinese Academy of Sciences (UCAS) |
-| 2026.07 ~ 2028.07 (expected) | M.Eng. | Cyberspace Security | Institute of Information Engineering (IIECAS) | University of Chinese Academy of Sciences (UCAS) |
+| 2025.09 ~ 2026.07 | M.Eng. | ‌Cyber Security | School of Cyber Security | University of Chinese Academy of Sciences (UCAS) |
+| 2026.07 ~ 2028.07 (expected) | M.Eng. | ‌Cyber Security | Institute of Information Engineering (IIE) | Chinese Academy of Sciences (CAS) |
  
 ## 🔭 Research Interests
  
