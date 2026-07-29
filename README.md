@@ -18,7 +18,7 @@
 
 ---
 
-**Linling Bai** is currently a Master of Engineering student in the University of Chinese Academy of Sciences (UCAS) system. Prior to that, she received a B.Eng. degree in Software Engineering from Beijing University of Technology (BJUT) in 2024. Her research interests include software supply chain Security and VR/AR System Security.
+**Linling Bai (白琳灵)** is currently a Master of Engineering student in the University of Chinese Academy of Sciences (UCAS) system. Prior to that, she received a B.Eng. degree in Software Engineering from Beijing University of Technology (BJUT) in 2024. Her research interests include software supply chain security and VR/AR system security.
 
 
  
