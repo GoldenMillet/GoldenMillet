@@ -1,6 +1,10 @@
   <h1 align="center">Hi 👋, I'm Linling Bai (白琳灵)</h1>
 
-  <br><div align='center'><img src='https://scs.ucas.ac.cn/images/headers/logo_ucas3.png'><img src='https://scs.ucas.ac.cn/images/headers/aaa.png'></div>
+  <br>
+  
+  <div align='center'><img src='https://scs.ucas.ac.cn/images/headers/logo_ucas3.png'><img src='https://scs.ucas.ac.cn/images/headers/aaa.png'></div>
+
+  <br>
 
   <!-- <br><div align='center'><img src='https://iie.cas.cn/images/iie_logo_20260317.png'></div><br> -->
 
