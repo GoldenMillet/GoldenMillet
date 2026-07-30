@@ -38,6 +38,8 @@
   | 2024.06 ~ 2024.07 | B.Eng. | Software Engineering | College of Computer Science | Beijing University of Technology (BJUT) |
   | 2025.09 ~ 2026.07 | M.Eng. | ‌Cyber Security | School of Cyber Security | University of Chinese Academy of Sciences (UCAS) |
   | 2026.07 ~ 2028.07 (expected) | M.Eng. | ‌Cyber Security | Institute of Information Engineering (IIE) | Chinese Academy of Sciences (CAS) |
+
+  > I am currently considering pursuing a PhD, with a research focus ideally centered on software supply chain security or vulnerability analysis in VR/AR systems.
   
   ## 🔬 Research Interests
   
