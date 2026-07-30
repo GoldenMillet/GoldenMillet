@@ -69,17 +69,21 @@
 
   ## 💡 Research Achievements
 
-  | Type | Author Rank | Title | Authorization | CCF Ranking | SCI-JCR Ranking |
-  |:---:|:---:|:---:|:---:|:---:|:---:|
-  | Invention Patent | 1st Author | A Method and Apparatus for Image-to-_(hidden)_ Conversion Based on Deep Learning | China National Intellectual Property Administration (CNIPA) | - | - |
-  | Journal Paper | Co-1st Author | _(hidden)_: Security Risk Analysis of _(hidden)_ in _(hidden)_ CI/CD platform | Journal of Systems and Software (JSS) | CCF-B | JCR-Q1 |
+   | Type | Author Rank | Title | Authorization | CCF Ranking | SCI-JCR Ranking |
+   |:---:|:---:|:---:|:---:|:---:|:---:|
+   | Journal Paper | Co-1st Author | _(hidden)_: Security Risk Analysis of _(hidden)_ in _(hidden)_ CI/CD platform | Journal of Systems and Software (JSS) | CCF-B | JCR-Q1 |
+   | Invention Patent | 1st Author | A Method and Apparatus for Image-to-_(hidden)_ Conversion Based on Deep Learning | China National Intellectual Property Administration (CNIPA) | - | - |
 
   ## 📧 Connect with Me
   
-  > For privacy reasons, email addresses (including educational email addresses) or personal mobile/landline numbers are not provided on this page.
+   <!-- 中文 / English / 日本語 = ✔ -->
+
+   You can contact me or communicate and discuss with me in **English**. 我从小到大都在北京，**中文**是我的默认语言，你也可以使用中文与我联系或进行学术交流。私の日本語はあまり上手ではありませんが、これからもっと練習しようと思っています。普段の会話でしたら、**日本語**で話していただいても大丈夫ですよ～
+
+   > For privacy reasons, email addresses (including educational email addresses) or personal mobile/landline numbers are not provided on this page.
   
   ## 🧰 Professional Skills
   
-  <p align="left">
-  <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,c,cpp,django,git,illustrator,java,js,linux,mysql,nginx,nodejs,opencv,py,pytorch,spring,unity,vue" />
-  </p>
+   <p align="left">
+   <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,c,cpp,django,git,illustrator,java,js,linux,mysql,nginx,nodejs,opencv,py,pytorch,spring,unity,vue" />
+   </p>
