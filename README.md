@@ -30,7 +30,7 @@
 
 
   
-  ## 🌱 Education Timeline
+  ## 🎓 Education Timeline
   
   | Time | Degrees | Major | Second-level Affiliated | Academic Institutions |
   |:---:|:---:|:---:|:---:|:---:|
@@ -39,7 +39,7 @@
   | 2025.09 ~ 2026.07 | M.Eng. | ‌Cyber Security | School of Cyber Security | University of Chinese Academy of Sciences (UCAS) |
   | 2026.07 ~ 2028.07 (expected) | M.Eng. | ‌Cyber Security | Institute of Information Engineering (IIE) | Chinese Academy of Sciences (CAS) |
   
-  ## 🔭 Research Interests
+  ## 🔬 Research Interests
   
   <details open>
   <summary><b>Transfer Learning & Computer Vision</b></summary>
@@ -67,18 +67,18 @@
   Open to new directions at the intersection of security and intelligent systems.
   </details>
 
-  ## 🔬 Publications & Patents
+  ## 💡 Research Achievements
 
   | Type | Author Rank | Title | Authorization | CCF Ranking | SCI-JCR Ranking |
   |:---:|:---:|:---:|:---:|:---:|:---:|
   | Invention Patent | 1st Author | A Method and Apparatus for Image-to-_(hidden)_ Conversion Based on Deep Learning | China National Intellectual Property Administration (CNIPA) | - | - |
   | Journal Paper | Co-1st Author | _(hidden)_: Security Risk Analysis of _(hidden)_ in _(hidden)_ CI/CD platform | Journal of Systems and Software (JSS) | CCF-B | JCR-Q1 |
 
-  ## 📩 Connect with Me
+  ## 📧 Connect with Me
   
   > For privacy reasons, email addresses (including educational email addresses) or personal mobile/landline numbers are not provided on this page.
   
-  ## 💡 Languages & Tools
+  ## 🧰 Professional Skills
   
   <p align="left">
   <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,c,cpp,django,git,illustrator,java,js,linux,mysql,nginx,nodejs,opencv,py,pytorch,spring,unity,vue" />
