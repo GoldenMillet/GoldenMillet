@@ -70,11 +70,26 @@
   </details>
 
   ## 💡 Research Achievements
+   
+   <details open>
+   <summary><b>Research Publications</b></summary>
 
    | Type | Author Rank | Title | Authorization | CCF Ranking | SCI-JCR Ranking |
    |:---:|:---:|:---:|:---:|:---:|:---:|
    | Journal Paper | Co-1st Author | _(hidden)_: Security Risk Analysis of _(hidden)_ in _(hidden)_ CI/CD platform | Journal of Systems and Software (JSS) | CCF-B | JCR-Q1 |
-   | Invention Patent | 1st Author | A Method and Apparatus for Image-to-_(hidden)_ Conversion Based on Deep Learning | China National Intellectual Property Administration (CNIPA) | - | - |
+   
+   </details>
+
+   <details>
+   <summary><i>Other Research Achievements</i></summary>
+
+   | Type | Author Rank | Title | Authorization |
+   |:---:|:---:|:---:|:---:|
+   | Invention Patent | 1st Author | A Method and Apparatus for _(hidden)_ Conversion Based on Deep Learning | China National Intellectual Property Administration (CNIPA) |
+   | Software Copyright | 2nd Author | _(hidden)_ Multi-Device Integration System | National Copyright Administration of The People's Republic of China (NCAC) |
+   | Software Copyright | 1st Author | Deep Learning-Based _(hidden)_ System | National Copyright Administration of The People's Republic of China (NCAC) |
+
+   </details>
 
   ## 📧 Connect with Me
   
