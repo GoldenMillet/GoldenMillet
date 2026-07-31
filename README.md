@@ -47,21 +47,21 @@
   <summary><b>Transfer Learning & Computer Vision</b></summary>
   Transfer learning in computer vision adapts a model pre-trained on a large, general-purpose dataset (e.g., ImageNet) to a new, often smaller, target task by fine-tuning its later layers or using its extracted features as input. This dramatically reduces the need for massive labeled data and computational resources, since the network has already learned fundamental visual patterns — edges, textures, shapes — that are reusable across many domains, from medical diagnostics to autonomous driving.
 
-  <u>**Key Words:** Neural Networks, Deep Learning, Transfer Learning, Image Generation.</u>
+  > **Key Words:** Neural Networks, Deep Learning, Transfer Learning, Image Generation.
   </details>
   
   <details open>
   <summary><b>CI/CD Security & Supply Chain Security</b></summary>
   CI/CD security covers the practices, tools, and policies that protect the continuous integration and continuous delivery/deployment pipeline — from code commit to production release. It spans securing source repositories, build environments, and artifact registries, while enforcing automated vulnerability scanning, dependency checks, secret management, and access controls, with the goal of catching supply-chain risks early without slowing development velocity.
 
-  <u>**Key Words:** Software Bill of Materials, CI/CD Security, DevOps.</u>
+  > **Key Words:** Software Bill of Materials, CI/CD Security, DevOps.
   </details>
   
   <details open>
   <summary><b>VR/AR System Security</b></summary>
   VR/AR system security protects hardware, software, and user data against threats unique to immersive, sensor-rich environments — from physical tampering of head-mounted displays and tracking systems to securing the rendering pipeline and network communications against malware or injection attacks. It also covers privacy risks such as unauthorized access to motion, gaze, or biometric data, and guards against manipulation of perceptual feedback that could cause disorientation or harm.
 
-  <u>**Key Words:** Extended Reality, Program Repair, Large Language Model.</u>
+  > **Key Words:** Extended Reality, Program Repair, Large Language Model.
   </details>
   
   <details>
