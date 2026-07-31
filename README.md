@@ -49,21 +49,21 @@
 
   <u>**Key Words:** Neural Networks, Deep Learning, Transfer Learning, Image Generation.</u>
   </details>
-  <br>
+  
   <details open>
   <summary><b>CI/CD Security & Supply Chain Security</b></summary>
   CI/CD security covers the practices, tools, and policies that protect the continuous integration and continuous delivery/deployment pipeline — from code commit to production release. It spans securing source repositories, build environments, and artifact registries, while enforcing automated vulnerability scanning, dependency checks, secret management, and access controls, with the goal of catching supply-chain risks early without slowing development velocity.
 
   <u>**Key Words:** Software Bill of Materials, CI/CD Security, DevOps.</u>
   </details>
-  <br>
+  
   <details open>
   <summary><b>VR/AR System Security</b></summary>
   VR/AR system security protects hardware, software, and user data against threats unique to immersive, sensor-rich environments — from physical tampering of head-mounted displays and tracking systems to securing the rendering pipeline and network communications against malware or injection attacks. It also covers privacy risks such as unauthorized access to motion, gaze, or biometric data, and guards against manipulation of perceptual feedback that could cause disorientation or harm.
 
   <u>**Key Words:** Extended Reality, Program Repair, Large Language Model.</u>
   </details>
-  <br>
+  
   <details>
   <summary><i>… and more</i></summary>
   Open to new directions at the intersection of security and intelligent systems.
