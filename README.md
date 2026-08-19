@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Linling Bai (白琳灵)</h1>
+  <h1 align="center">🎉Welcome to Linling Bai's Academic Homepage🎉</h1>
 
   <br>
   
@@ -74,20 +74,20 @@
    <details open>
    <summary><b>Research Publications</b></summary>
 
-   | Type | Author Rank | Title | Authorization | CCF Ranking | SCI-JCR Ranking |
-   |:---:|:---:|:---:|:---:|:---:|:---:|
-   | Journal Paper | Co-1st Author | _(hidden)_: Security Risk Analysis of _(hidden)_ in _(hidden)_ CI/CD platform | Journal of Systems and Software (JSS) | CCF-B | JCR-Q1 |
+   | Type | Author Rank | Title | Authorization | CCF Ranking | SCI-JCR Ranking | Date |
+   |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+   | Journal Paper | Co-1st Author | _(hidden)_: Security Risk Analysis of _(hidden)_ in _(hidden)_ CI/CD platform | Journal of Systems and Software (JSS) | CCF-B | JCR-Q1 | Jun 2026 |
    
    </details>
 
    <details>
    <summary><i>Other Research Achievements</i></summary>
 
-   | Type | Author Rank | Title | Authorization |
-   |:---:|:---:|:---:|:---:|
-   | Invention Patent | 1st Author | A Method and Apparatus for _(hidden)_ Conversion Based on Deep Learning | China National Intellectual Property Administration (CNIPA) |
-   | Software Copyright | 2nd Author | _(hidden)_ Multi-Device Integration System | National Copyright Administration of The People's Republic of China (NCAC) |
-   | Software Copyright | 1st Author | Deep Learning-Based _(hidden)_ System | National Copyright Administration of The People's Republic of China (NCAC) |
+   | Type | Author Rank | Title | Authorization | Date |
+   |:---:|:---:|:---:|:---:|:---:|
+   | Invention Patent | 1st Author | A Method and Apparatus for _(hidden)_ Conversion Based on Deep Learning | China National Intellectual Property Administration (CNIPA) | - |
+   | Software Copyright | 2nd Author | _(hidden)_ Multi-Device Integration System | National Copyright Administration of The People's Republic of China (NCAC) | Aug 2024 |
+   | Software Copyright | 1st Author | Deep Learning-Based _(hidden)_ System | National Copyright Administration of The People's Republic of China (NCAC) | Aug 2024 |
 
    </details>
 
@@ -100,7 +100,22 @@
    > For privacy reasons, email addresses (including educational email addresses) or personal mobile/landline numbers are not provided on this page.
   
   ## 🧰 Professional Skills
+
+  <!-- **Relevant Coursework:**
+   - **Security:** Software and System Security, Computer Network and Information System Security, Network Protocol Security, Network Attack and Defense, Mobile Intelligent System Security  
+   - **AI & Data:** Machine Learning, Multimedia Information Hiding and Security  
+   - **Governance:** Cyber Threat Awareness and Attribution, Cybercrime and Security Governance, Introduction to Dialectics of Nature -->
   
-   <p align="left">
-   <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,c,cpp,django,git,illustrator,java,js,linux,mysql,nginx,nodejs,opencv,py,pytorch,spring,unity,vue" />
-   </p>
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,c,cpp,django,git,illustrator,java,js,linux,mysql,nginx,nodejs,opencv,py,pytorch,spring,unity,vue" />
+  </p>
+
+  <br>
+  
+  ### External Links: 
+  
+  <a href="https://www.iie.ac.cn/">Institute of Information Engineering - CAS</a>
+  
+  <a href="https://scs.ucas.ac.cn/index.php/">School of Cybersecurity - UCAS </a>
+  
+  <a href="https://cs.bjut.edu.cn/">College of Computer Science - BJUT </a>
