@@ -1,0 +1,109 @@
+baseURL: "https://goldenmillet.github.io/"
+title: Linling Bai
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Research
+          url: research/
+          weight: 1
+        - name: Publications
+          url: papers/
+          weight: 2
+        - name: Patents
+          url: patents/
+          weight: 3
+        - name: CV
+          url: cv/
+          weight: 4
+        - name: Tags
+          url: tags/
+          weight: 5
+        - name: GitHub
+          url: https://github.com/GoldenMillet
+          weight: 6
+
+params:
+    description: "The academic homepage of Linling Bai, covering research on software supply chain security, CI/CD security, and VR/AR system security, with publications, patents, and curriculum vitae."
+    author: Linling Bai
+    # googleAnalyticsID: G-XXXXX
+    DateFormat: January 2006
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: [papers]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Linling Bai
+          subtitle: "I am a Master of Engineering student in the University of Chinese Academy of Sciences (UCAS) system, at the Institute of Information Engineering, Chinese Academy of Sciences. I received my B.Eng. in Software Engineering from Beijing University of Technology (BJUT) in 2024. My research focuses on software supply chain security and VR/AR system security."
+          imageUrl: picture.jpeg
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: Research
+              url: research/
+            - name: Publications
+              url: papers/
+            - name: Patents
+              url: patents/
+            - name: CV
+              url: cv/
+            - name: Tags
+              url: tags/
+            - name: GitHub
+              url: https://github.com/GoldenMillet
+
+    socialIcons:
+        - name: CV
+          url: cv/
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/linling-bai-32a59b371
+        - name: GitHub
+          url: https://github.com/GoldenMillet
+        - name: Xiaohongshu
+          url: https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: Linling Bai
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
