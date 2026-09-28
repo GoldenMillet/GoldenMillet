@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Linling Bai</title>
+    <link>https://goldenmillet.github.io/tags/</link>
+    <description>Recent content in Tags on Linling Bai</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://goldenmillet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CI/CD Security</title>
+      <link>https://goldenmillet.github.io/tags/ci/cd-security/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://goldenmillet.github.io/tags/ci/cd-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>https://goldenmillet.github.io/tags/devops/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://goldenmillet.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Program Analysis</title>
+      <link>https://goldenmillet.github.io/tags/program-analysis/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://goldenmillet.github.io/tags/program-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Bill of Materials</title>
+      <link>https://goldenmillet.github.io/tags/software-bill-of-materials/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://goldenmillet.github.io/tags/software-bill-of-materials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Supply Chain Security</title>
+      <link>https://goldenmillet.github.io/tags/software-supply-chain-security/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://goldenmillet.github.io/tags/software-supply-chain-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vulnerability Analysis</title>
+      <link>https://goldenmillet.github.io/tags/vulnerability-analysis/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://goldenmillet.github.io/tags/vulnerability-analysis/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
