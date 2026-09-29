@@ -11,6 +11,9 @@
   <!-- <br><div align='center'><img src='https://harere.cn/images/Polaris.png'></div><br> -->
 
   <p align="center">
+  <a href="https://goldenmillet.github.io/GoldenMillet/" target="_blank">
+    <img src="https://img.shields.io/badge/Homepage-Linling%20Bai-FF4088?style=flat-square&logo=hugo&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/linling-bai-32a59b371" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Linling%20Bai-0A66C2?style=flat-square&logo=logmein&logoColor=white" />
   </a>
