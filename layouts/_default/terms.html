@@ -9,8 +9,15 @@
     {{- $name := .Name }}
     {{- $count := .Count }}
     {{- with site.GetPage (printf "/%s/%s" $type $name) }}
+    {{- /* The term page's .Name keeps the casing the author wrote in the front matter
+           (e.g. "iOS", "arXiv"), which .Title would destroy ("IOS", "ArXiv").
+           But when a term contains a slash (e.g. "CI/CD security") Hugo stores it as a
+           nested path and .Name returns only the last segment ("CD security"), so for
+           those, and only those, fall back to .Title. */}}
+    {{- $label := .Name }}
+    {{- if strings.Contains $name "/" }}{{ $label = .Title }}{{ end }}
     <li>
-        <a href="{{ .Permalink }}">{{ .Title }} <sup><strong><sup>{{ $count }}</sup></strong></sup> </a>
+        <a href="{{ .Permalink }}">{{ $label }} <sup><strong><sup>{{ $count }}</sup></strong></sup> </a>
     </li>
     {{- end }}
     {{- end }}

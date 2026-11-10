@@ -24,12 +24,15 @@ menu:
         - name: CV
           url: cv/
           weight: 4
+        - name: Life
+          url: life/
+          weight: 5
         - name: Tags
           url: tags/
-          weight: 5
+          weight: 6
         - name: GitHub
           url: https://github.com/GoldenMillet
-          weight: 6
+          weight: 7
 
 params:
     description: "The academic homepage of Linling Bai, covering research on software supply chain security, CI/CD security, and VR/AR system security, with publications, patents, and curriculum vitae."
@@ -47,7 +50,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: [papers]
+    MainSections: [papers, life]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -71,6 +74,8 @@ params:
               url: patents/
             - name: CV
               url: cv/
+            - name: Life
+              url: life/
             - name: Tags
               url: tags/
             - name: GitHub
