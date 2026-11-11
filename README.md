@@ -14,15 +14,15 @@
   <a href="https://goldenmillet.github.io/GoldenMillet/" target="_blank">
     <img src="https://img.shields.io/badge/Homepage-Linling%20Bai-FF4088?style=flat-square&logo=hugo&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/linling-bai-32a59b371" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Linling%20Bai-0A66C2?style=flat-square&logo=logmein&logoColor=white" />
-  </a>
   <a href="https://github.com/GoldenMillet" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Linling%20Bai-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b" target="_blank">
     <img src="https://img.shields.io/badge/Red Notes-森美奈美的树村路女儿-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" />
-  </a> 
+  </a>
+  <a href="https://www.linkedin.com/in/linling-bai-32a59b371" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Linling%20Bai-0A66C2?style=flat-square&logo=logmein&logoColor=white" />
+  </a>
   </p>
 
   ---
@@ -45,21 +45,28 @@
   ## 🔬 Research Interests
   
   <details open>
-  <summary><b>VR/AR System Security</b></summary>
+  <summary><b>VR/AR System Security (Sep 2026 ~ Now)</b></summary>
   VR/AR system security protects hardware, software, and user data against threats unique to immersive, sensor-rich environments — from physical tampering of head-mounted displays and tracking systems to securing the rendering pipeline and network communications against malware or injection attacks. It also covers privacy risks such as unauthorized access to motion, gaze, or biometric data, and guards against manipulation of perceptual feedback that could cause disorientation or harm.
 
   > **Key Words:** Extended Reality, Program Repair, Large Language Model.
   </details>
 
   <details open>
-  <summary><b>CI/CD Security & Supply Chain Security</b></summary>
+  <summary><b>CI/CD Security & Supply Chain Security (May 2025 ~ Now)</b></summary>
   CI/CD security covers the practices, tools, and policies that protect the continuous integration and continuous delivery/deployment pipeline — from code commit to production release. It spans securing source repositories, build environments, and artifact registries, while enforcing automated vulnerability scanning, dependency checks, secret management, and access controls, with the goal of catching supply-chain risks early without slowing development velocity.
 
   > **Key Words:** Software Bill of Materials, CI/CD Security, DevOps.
   </details>
   
   <details open>
-  <summary><b>Computer Vision</b></summary>
+  <summary><b>Privacy Protection in Federated Learning (Feb 2025 ~ Now)</b></summary>
+  The core research direction of privacy protection in federated learning is “how to securely jointly train models under the premise that data does not leave the local device and raw data is not directly shared,” while defending against attacks that infer private information from model updates. Simply put, it does not study “how to hide data away and not use it,” but rather “how, when the data stays put and the model moves, to make good use of the data without leaking privacy.”
+
+  > **Key Words:** Privacy Protection, Differential Privacy, Information Hiding.
+  </details>
+
+  <details open>
+  <summary><b>Computer Vision (Sep 2023 ~ Jul 2024)</b></summary>
   Transfer learning in computer vision adapts a model pre-trained on a large, general-purpose dataset (e.g., ImageNet) to a new, often smaller, target task by fine-tuning its later layers or using its extracted features as input. This dramatically reduces the need for massive labeled data and computational resources, since the network has already learned fundamental visual patterns — edges, textures, shapes — that are reusable across many domains, from medical diagnostics to autonomous driving.
 
   > **Key Words:** Neural Networks, Deep Learning, Transfer Learning, Image Generation.
@@ -71,7 +78,7 @@
   </details>
 
   ## 💡 Research Achievements
-   
+
    <details open>
    <summary><b>Research Publications</b></summary>
 
