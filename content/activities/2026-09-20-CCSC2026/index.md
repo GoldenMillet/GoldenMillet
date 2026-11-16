@@ -1,16 +1,16 @@
 ---
-title: "Attending the Inaugural China Cyber Security Congress (CCSC 2026)"
+title: "Attending the 1st China Cyber Security Congress (CCSC 2026)"
 date: 2026-09-20
 tags: ["academic activities", "cybersecurity"]
 author: ["Linling Bai"]
-description: "Report on attending CCSC 2026, the inaugural China Cyber Security Congress, in Hefei from 18 to 20 September 2026."
-summary: "I attended the inaugural China Cyber Security Congress (CCSC 2026) in Hefei from 18 to 20 September 2026 as a student member, including the main forum and five thematic forums on supply-chain security, systems engineering security, cryptography, and autonomous cyber defense."
+description: "Report on attending CCSC 2026, the 1st China Cyber Security Congress, in Hefei from 18 to 20 September 2026."
+summary: "I attended the 1st China Cyber Security Congress (CCSC 2026) in Hefei from 18 to 20 September 2026 as a student member, including the main forum and five thematic forums on supply-chain security, systems engineering security, cryptography, and autonomous cyber defense."
 cover:
     image: "02.jpg"
     alt: "Main hall of the China Cyber Security Congress (CCSC 2026)"
 ---
 
-From 18 to 20 September 2026, I attended the inaugural **China Cyber Security Congress (CCSC 2026)** in Hefei as a student member. The congress was hosted by the China Cyber Security Society (CCSS) and organized by the University of Science and Technology of China (USTC).
+From 18 to 20 September 2026, I attended the 1st **China Cyber Security Congress (CCSC 2026)** in Hefei as a student member. The congress was hosted by the China Cyber Security Society (CCSS) and organized by the University of Science and Technology of China (USTC).
 
 ![Attendee badge and main stage at CCSC 2026](01.jpg)
 
