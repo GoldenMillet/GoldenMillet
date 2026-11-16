@@ -1,6 +1,7 @@
 ---
 title: "示例：如何记录一次学术活动"
 date: 2026-11-10
+draft: true
 tags: ["academic activities"]
 author: ["Linling Bai"]
 description: "Activities 板块的示例文章，演示封面图、正文图片和列表页的排版。"
