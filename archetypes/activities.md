@@ -1,7 +1,7 @@
 ---
 title: "Post title"
 date: 2026-10-01
-tags: ["daily life"]
+tags: ["academic activities"]
 author: ["Linling Bai"]
 description: "One sentence for search engines (under 155 characters)."
 summary: "One or two sentences shown on the list page (under 265 characters)."
@@ -11,7 +11,7 @@ summary: "One or two sentences shown on the list page (under 265 characters)."
 #     alt: "Short description of the photo"
 ---
 
-Write the post here.
+Write the activity here.
 
 <!-- To add a photo inside the post, put the file in this folder and write:
 

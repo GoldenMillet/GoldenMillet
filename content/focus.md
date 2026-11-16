@@ -1,8 +1,9 @@
 ---
-title: "Research"
+title: "Focus"
 date: 2026-09-01
 hidemeta: true
-description: "Research interests of Linling Bai: VR/AR system security, CI/CD and software supply chain security, computer vision, and privacy protection in federated learning."
+aliases: ["/research/"]
+description: "Focus areas of Linling Bai: VR/AR system security, CI/CD and software supply chain security, computer vision, and privacy protection in federated learning."
 ---
 
 My research sits at the intersection of systems security and intelligent systems. I am currently considering pursuing a PhD, with a focus on software supply chain security or vulnerability analysis in VR/AR systems.
