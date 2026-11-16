@@ -1,5 +1,5 @@
 baseURL: "https://goldenmillet.github.io/"
-title: Linling Bai / 白琳灵
+title: Linling Bai
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -57,7 +57,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Linling Bai
+          title: Linling Bai / 白琳灵
           subtitle: "I am a Master of Engineering student in the University of Chinese Academy of Sciences (UCAS) system, at the Institute of Information Engineering, Chinese Academy of Sciences. I received my B.Eng. in Software Engineering from Beijing University of Technology (BJUT) in 2024. My research focuses on software supply chain security and VR/AR system security."
           imageUrl: picture.jpeg
           imageWidth: 160
