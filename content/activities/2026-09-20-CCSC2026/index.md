@@ -16,7 +16,7 @@ From 18 to 20 September 2026, I attended the 1st **China Cyber Security Congress
 
 ## Forum programme
 
-On 19 September I attended the opening ceremony and the main forum, followed by five thematic forums:
+On 19 September I attended the opening ceremony and the main forum, followed by five thematic forums in two days:
 
 - *Open Source Software and Supply Chain Security (开源软件与供应链安全论坛)*
 - *AI-Empowered Systems Engineering Security (智能赋能的系统工程安全论坛)*

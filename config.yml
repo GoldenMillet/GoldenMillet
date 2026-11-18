@@ -27,9 +27,12 @@ menu:
         - name: Activities
           url: activities/
           weight: 5
+        - name: Guestbook
+          url: guestbook/
+          weight: 6
         - name: Tags
           url: tags/
-          weight: 6
+          weight: 7
 
 params:
     description: "The academic homepage of Linling Bai, covering research on software supply chain security, CI/CD security, and VR/AR system security, with publications, patents, and curriculum vitae."
@@ -73,18 +76,18 @@ params:
               url: patents/
             - name: Activities
               url: activities/
+            - name: Life
+              url: https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b
+            - name: Guestbook
+              url: guestbook/
             - name: Tags
               url: tags/
 
     socialIcons:
-        - name: CV
-          url: cv/
         - name: LinkedIn
           url: https://www.linkedin.com/in/linling-bai-32a59b371
         - name: GitHub
           url: https://github.com/GoldenMillet
-        - name: Xiaohongshu
-          url: https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b
 
     assets:
         disableScrollBarStyle: true
