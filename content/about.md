@@ -1,10 +1,11 @@
 ---
-title: "Curriculum Vitae"
+title: "About"
 date: 2026-09-01
 hidemeta: true
+aliases: ["/cv/"]
 showToc: true
 disableAnchoredHeadings: false
-description: "Education, professional skills, languages, and contact information of Linling Bai."
+description: "About Linling Bai: education, professional skills, languages, and contact information."
 ---
 
 ## Education

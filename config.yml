@@ -12,8 +12,8 @@ taxonomies:
 
 menu:
     main:
-        - name: CV
-          url: cv/
+        - name: About
+          url: about/
           weight: 1
         - name: Focus
           url: focus/
@@ -30,8 +30,8 @@ menu:
         - name: Guestbook
           url: guestbook/
           weight: 6
-        - name: Tags
-          url: tags/
+        - name: Links
+          url: links/
           weight: 7
 
 params:
@@ -66,8 +66,8 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: CV
-              url: cv/
+            - name: About
+              url: about/
             - name: Focus
               url: focus/
             - name: Publications
@@ -80,8 +80,8 @@ params:
               url: https://www.xiaohongshu.com/user/profile/65325b83000000002a02a79b
             - name: Guestbook
               url: guestbook/
-            - name: Tags
-              url: tags/
+            - name: Links
+              url: links/
 
     socialIcons:
         - name: LinkedIn
