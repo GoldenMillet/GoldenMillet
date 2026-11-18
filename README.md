@@ -100,10 +100,10 @@
    </details>
 
   ## 📧 Connect with Me
-  
+
    You can contact me or communicate and discuss with me in **English**. 我从小到大都在北京，**中文**是我的母语，你也可以使用中文与我联系或进行学术交流。私の**日本語**はあまり上手ではありませんが、これからもっと練習しようと思っています。普段の会話でしたら、日本語で話していただいても大丈夫ですよ～
 
-   > For privacy reasons, email addresses (including educational email addresses) or personal mobile/landline numbers are not provided on this page.
+   > For privacy reasons, email addresses (including educational email addresses) or personal mobile/landline numbers are not provided on this page. You can leave a message via <a href="https://goldenmillet.github.io/GoldenMillet/guestbook/">this link</a>.
   
   ## 🧰 Professional Skills & Coursework
 
@@ -124,3 +124,5 @@
   <a href="https://scs.ucas.ac.cn/index.php/">School of Cybersecurity - UCAS </a>
   
   <a href="https://cs.bjut.edu.cn/">College of Computer Science - BJUT </a>
+
+  <!-- <a href="https://www.ccss.org.cn/">China Cyber Security Society (CCCS) </a> -->
