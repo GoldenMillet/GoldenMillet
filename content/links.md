@@ -19,12 +19,15 @@ A collection of websites I find useful or worth recommending.
 
 ## Research and tools
 
-- [arXiv](https://arxiv.org/)
 - [DBLP](https://dblp.org/)
 - [Google Scholar](https://scholar.google.com/)
-- [GitHub](https://github.com/GoldenMillet)
+- [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
+- [S.H.*.T Journal](https://shitjournal.org/)
+- [arXiv](https://arxiv.org/)
+- [Figshare](https://figshare.com/)
 
 ## Other
 
+- [中国科学院大学招生信息网](https://admission.ucas.ac.cn/)
 - [中国科学院大学计算机考研信息站](https://cskaoyan.cn/)
 - [信息工程研究所考研信息站](https://cskaoyan.cn/?article=%E4%BF%A1%E5%B7%A5%E6%89%80)
