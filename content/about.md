@@ -8,6 +8,10 @@ disableAnchoredHeadings: false
 description: "About Linling Bai: education, professional skills, languages, and contact information."
 ---
 
+I am a Master of Engineering student in the University of Chinese Academy of Sciences (UCAS) system, at the Institute of Information Engineering, Chinese Academy of Sciences. I received my B.Eng. in Software Engineering from Beijing University of Technology (BJUT) in 2024. My research focuses on software supply chain security and VR/AR system security.
+
+---
+
 ## Education
 
 | Period | Degree | Major | School | Institution |
