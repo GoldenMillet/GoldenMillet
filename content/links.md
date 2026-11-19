@@ -25,6 +25,14 @@ A collection of websites I find useful or worth recommending.
 - [S.H.*.T Journal](https://shitjournal.org/)
 - [arXiv](https://arxiv.org/)
 - [Figshare](https://figshare.com/)
+- {{< file-link path="files/CCF2026.pdf" text="中国计算机学会推荐国际学术会议和期刊目录 - 2026年" >}}
+
+<!-- ## Supervisor‌ & Class Adviser‌
+
+- [Professor Feng Liu (刘峰 研究员)](https://fengliu.net.cn/)
+- [Associate Professor Huashan Chen (陈华山 副研究员)](https://chenhuashancs.github.io/)
+- [Lecturer‌ Yong Shao (邵勇 讲师)](https://cs.bjut.edu.cn/info/1414/1253.htm)
+- [Associate Professor Hairong Yan (严海蓉 副教授)](https://cs.bjut.edu.cn/info/1415/1256.htm) -->
 
 ## Other
 
