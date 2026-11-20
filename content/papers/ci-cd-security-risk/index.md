@@ -9,6 +9,12 @@ summary: "A journal article, as co-first author, analyzing security risks in CI/
 
 ---
 
+##### Download
+
+- {{< file-link path="files/publications/Security_Risk_Analysis_in_CICD_Platforms.pdf" text="Presentation slides (PDF, in Chinese)" >}}
+
+---
+
 ##### Details
 
 | Field | Value |
