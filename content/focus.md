@@ -10,7 +10,7 @@ My research sits at the intersection of systems security and intelligent systems
 
 ---
 
-## VR/AR system security
+## VR/AR system security (Sep 2026 – present)
 
 VR/AR system security protects hardware, software, and user data against threats unique to immersive, sensor-rich environments: from physical tampering of head-mounted displays and tracking systems, to securing the rendering pipeline and network communications against malware or injection attacks. It also covers privacy risks such as unauthorized access to motion, gaze, or biometric data, and guards against manipulation of perceptual feedback that could cause disorientation or harm.
 
@@ -18,7 +18,7 @@ VR/AR system security protects hardware, software, and user data against threats
 
 ---
 
-## CI/CD security and software supply chain security
+## CI/CD security and software supply chain security (May 2025 – present)
 
 CI/CD security covers the practices, tools, and policies that protect the continuous integration and continuous delivery/deployment pipeline, from code commit to production release. It spans securing source repositories, build environments, and artifact registries, while enforcing automated vulnerability scanning, dependency checks, secret management, and access controls, with the goal of catching supply-chain risks early without slowing development velocity.
 
@@ -26,19 +26,19 @@ CI/CD security covers the practices, tools, and policies that protect the contin
 
 ---
 
-## Computer vision
-
-Transfer learning in computer vision adapts a model pre-trained on a large, general-purpose dataset (such as ImageNet) to a new, often smaller, target task, by fine-tuning its later layers or using its extracted features as input. This greatly reduces the need for massive labeled data and computation, since the network has already learned fundamental visual patterns — edges, textures, shapes — that are reusable across many domains, from medical diagnostics to autonomous driving.
-
-> **Keywords:** neural networks, deep learning, transfer learning, image generation.
-
----
-
-## Privacy Protection in Federated Learning
+## Privacy Protection in Federated Learning (Feb 2025 – present)
 
 The core research direction of privacy protection in federated learning is “how to securely jointly train models under the premise that data does not leave the local device and raw data is not directly shared,” while defending against attacks that infer private information from model updates. Simply put, it does not study “how to hide data away and not use it,” but rather “how, when the data stays put and the model moves, to make good use of the data without leaking privacy.”
 
 > **Keywords:** privacy protection, differential privacy, information hiding.
+
+---
+
+## Computer vision (Sep 2023 – Jul 2024)
+
+Transfer learning in computer vision adapts a model pre-trained on a large, general-purpose dataset (such as ImageNet) to a new, often smaller, target task, by fine-tuning its later layers or using its extracted features as input. This greatly reduces the need for massive labeled data and computation, since the network has already learned fundamental visual patterns — edges, textures, shapes — that are reusable across many domains, from medical diagnostics to autonomous driving.
+
+> **Keywords:** neural networks, deep learning, transfer learning, image generation.
 
 ---
 
