@@ -2,6 +2,7 @@
 title: "Attending the 1st China Cyber Security Congress (CCSC 2026)"
 date: 2026-09-20
 tags: ["academic activities", "cybersecurity"]
+entryNote: "Full text in English"
 author: ["Linling Bai"]
 description: "Report on attending CCSC 2026, the 1st China Cyber Security Congress, in Hefei from 18 to 20 September 2026."
 summary: "I attended the 1st China Cyber Security Congress (CCSC 2026) in Hefei from 18 to 20 September 2026 as a student member, including the main forum and five thematic forums on supply-chain security, systems engineering security, cryptography, and autonomous cyber defense."

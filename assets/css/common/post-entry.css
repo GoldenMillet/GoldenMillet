@@ -51,6 +51,52 @@
     display: none;
 }
 
+/* Compact list entries: show the cover as a small thumbnail on the left */
+.post-entry::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.post-entry .entry-cover {
+    float: left;
+    width: 128px;
+    margin: 0 16px 8px 0;
+    text-align: left;
+}
+
+.post-entry .entry-cover img {
+    display: block;
+    width: 128px;
+    height: 96px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+@media (max-width: 480px) {
+    .post-entry .entry-cover {
+        width: 88px;
+        margin-right: 12px;
+    }
+
+    .post-entry .entry-cover img {
+        width: 88px;
+        height: 66px;
+    }
+}
+
+/* Optional per-entry note, e.g. a language hint */
+.entry-note {
+    display: inline-block;
+    margin-top: 6px;
+    padding: 1px 8px;
+    font-size: 12px;
+    line-height: 1.7;
+    color: var(--secondary);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+}
+
 .entry-header h2 {
     font-size: 20px;
     line-height: var(--lineheight);

@@ -63,6 +63,9 @@
       </span>
       {{- end }}
     </h2>
+    {{- with (.Param "entryNote") }}
+    <div class="entry-note">{{ . }}</div>
+    {{- end }}
   </header>
   {{- if (ne (.Param "hideSummary") true) }}
   <div class="entry-content">
