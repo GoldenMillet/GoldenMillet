@@ -3,6 +3,7 @@ title: "中科院信工所复试全流程指南及本人复试纪实"
 date: 2026-02-27
 tags: ["postgraduate re-examination"]
 author: ["Linling Bai"]
+showToc: true
 entryNote: "Full text in Chinese · 中文全文"
 description: "WIP"
 summary: "WIP"
@@ -99,15 +100,28 @@ cover:
 
 ### 关于复试英语
 
-Working in Progress ...
+对信工所而言，英语能力测试只占复试的10%，并且在实际复试的执行层面上，几乎已经沦为“走过场”。实际上也该如此：英语对于科研就是一个沟通世界科研圈的工具，复试里的英语证明的不是你的英语“有多好”，而是你的英语“不太差”。
+
+理解了这一点，我相信大家也就会准备复试里的英语口语了。虽然各研究室的面试内容略有差异，但基本都分为两个部分：自我介绍、提问回答（部分研究室会有文段翻译）。
+
+自我介绍可以直接在网上找一个模板（或者直接AI生成一个），然后适度简化一下就行。网上的模板往往华而不实，里面运用了大量的复杂句型和高级的词汇——实际完全没有这个必要。前文已经提到，复试里的英语部分并不是为了筛选英语特别好的人，你只需要让面试官知道“你在英语世界不是文盲，并且不是哑巴英语”就可以了。那么，简化到什么地步呢？我只能说：暂时不能给你明确的答复，这个需要你自己去衡量——凡是看不懂的句型，或者难以背诵的句子，都应该删掉或拆成简单句。同理，英语自我介绍的长度也需要你根据你自己的说话语速去自行判断。一般而言，你先念一遍你的稿子，然后再故意放慢语速念第二遍稿子，得到的这两个时间作为上下限要在五分钟左右。
+
+提问回答和自我介绍不一样。自我介绍是有模板的，大家到了考场上都是直接开背，所以这部分其实不需要太紧张。但提问回答就不同了。这部分没有明确的考纲，问题范围很广：从你的生活爱好，到专业基础知识；从毕业设计，到本科学习经历，都有可能被问到。但是大家务必不要紧张，要牢记现在是英语考试时间。即便问到最困难的专业问题（比如让你口述你毕设的创新点、或者让你口述注意力机制的原理），也不应该考倒你。后面的面试篇里会告诉你，基础知识问题是决不能犯错的：但现在是英语考试时间，你的注意力应该在你的口语表达是不是流利、你的神态和语气是不是自然、最基本的名词是不是用错了等等，而非纠结于语法错误以及专业知识回答的对不对。即便是你的回答在专业知识上纰漏百出，并且语法还错一堆，这也不要紧。只要你的语调是自然流利的，就不会扣太多分。
+
+对于文段翻译，这个看上去是一个棘手的问题啊~如果你实在觉得没啥自信，那就自己练练。至于文段，可以让AI给你生成，也可以自己找论文的Abstract或者Introduction/Background部分自己练，现场的难度不会比这个高了。这里给出一个参考：
+
+> Continuous Integration and Delivery, commonly referred to as CI/CD, are software development practices that involve automating integration, testing, and delivery of software in a consistent, regular and automated manner. CI/CD pipelines, in addition to increasing efficiency, also reduce costs for the organization. Consequently, the adoption of CI/CD pipelines is increasing rapidly. There exist several CI/CD services (TravisCI, CircleCI, Gitlab CI, and more) that enable developers to set up their CI/CD pipeline quickly. Developers need to provide specific configuration parameters about how the software is built and tested. Furthermore, developers use these CI/CD services to automatically deploy the software to corresponding code repositories such as Python Package Index (PIP) or Debian repository. \
+> ——节选自Igibek Koishybayev等著《Characterizing the Security of Github CI Workflows》
+
+总结一下，英语口语考试毕竟只占总分的10%。所以各位在应对的时候，不要把它看得太过重要，好像如临大敌一样——反之，大家应该将其视作是“体检”、“走过场”一样，稍微准备一下弄一个差不多的分数，这就已经可以了——你的主要精力应该放在专业面。
 
 ### 关于面试现场
 
-Working in Progress ...
+`Working in Progress ...`
 
-### 关于北京旅游
+<!-- ### 关于北京旅游
 
-Working in Progress ...
+Working in Progress ... -->
 
 ## Part 04 - 本人（2025级）在十室的复试过程纪实
 
